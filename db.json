@@ -1,214 +1,32 @@
 {
-  "citizens": [
+  "holidays": [
     {
-      "firstName": "Lewis",
-      "lastName": "Hamilton",
-      "dateOfBirth": "07/01/1985",
-      "placeOfBirth": "Stevenage, England",
-      "address": "18 Route de la Piscine, 98000 Monaco"
+      "id": "1",
+      "name": "Two weeks in the Canaries!",
+      "destination": "Tenerife",
+      "country": "Spain",
+      "priceGBP": "500"
     },
     {
-      "firstName": "Max",
-      "lastName": "Verstappen",
-      "dateOfBirth": "30/09/1997",
-      "placeOfBirth": "Hasselt, Belgium",
-      "address": "18 Route de la Piscine, 98000 Monaco"
+      "id": "2",
+      "name": "City-break in NYC!",
+      "destination": "New York City",
+      "country": "United States of America",
+      "priceGBP": "1200"
     },
     {
-      "firstName": "Valtteri",
-      "lastName": "Bottas",
-      "dateOfBirth": "28/08/1989",
-      "placeOfBirth": "Nastola, Finland",
-      "address": "18 Route de la Piscine, 98000 Monaco"
+      "id": "3",
+      "name": "A journey to the Far East!",
+      "destination": "Tokyo",
+      "country": "Japan",
+      "priceGBP": "1000"
     },
     {
-      "firstName": "Charles",
-      "lastName": "Leclerc",
-      "dateOfBirth": "16/10/1997",
-      "placeOfBirth": "Monte Carlo, Monaco",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Lewis",
-      "lastName": "Hamilton",
-      "dateOfBirth": "07/01/1985",
-      "placeOfBirth": "Stevenage, England",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Max",
-      "lastName": "Verstappen",
-      "dateOfBirth": "30/09/1997",
-      "placeOfBirth": "Hasselt, Belgium",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Valtteri",
-      "lastName": "Bottas",
-      "dateOfBirth": "28/08/1989",
-      "placeOfBirth": "Nastola, Finland",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Charles",
-      "lastName": "Leclerc",
-      "dateOfBirth": "16/10/1997",
-      "placeOfBirth": "Monte Carlo, Monaco",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Lewis",
-      "lastName": "Hamilton",
-      "dateOfBirth": "07/01/1985",
-      "placeOfBirth": "Stevenage, England",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Max",
-      "lastName": "Verstappen",
-      "dateOfBirth": "30/09/1997",
-      "placeOfBirth": "Hasselt, Belgium",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Valtteri",
-      "lastName": "Bottas",
-      "dateOfBirth": "28/08/1989",
-      "placeOfBirth": "Nastola, Finland",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Charles",
-      "lastName": "Leclerc",
-      "dateOfBirth": "16/10/1997",
-      "placeOfBirth": "Monte Carlo, Monaco",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Lewis",
-      "lastName": "Hamilton",
-      "dateOfBirth": "07/01/1985",
-      "placeOfBirth": "Stevenage, England",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Max",
-      "lastName": "Verstappen",
-      "dateOfBirth": "30/09/1997",
-      "placeOfBirth": "Hasselt, Belgium",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Valtteri",
-      "lastName": "Bottas",
-      "dateOfBirth": "28/08/1989",
-      "placeOfBirth": "Nastola, Finland",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Charles",
-      "lastName": "Leclerc",
-      "dateOfBirth": "16/10/1997",
-      "placeOfBirth": "Monte Carlo, Monaco",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-        {
-      "firstName": "Lewis",
-      "lastName": "Hamilton",
-      "dateOfBirth": "07/01/1985",
-      "placeOfBirth": "Stevenage, England",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Max",
-      "lastName": "Verstappen",
-      "dateOfBirth": "30/09/1997",
-      "placeOfBirth": "Hasselt, Belgium",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Valtteri",
-      "lastName": "Bottas",
-      "dateOfBirth": "28/08/1989",
-      "placeOfBirth": "Nastola, Finland",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Charles",
-      "lastName": "Leclerc",
-      "dateOfBirth": "16/10/1997",
-      "placeOfBirth": "Monte Carlo, Monaco",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Lewis",
-      "lastName": "Hamilton",
-      "dateOfBirth": "07/01/1985",
-      "placeOfBirth": "Stevenage, England",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Max",
-      "lastName": "Verstappen",
-      "dateOfBirth": "30/09/1997",
-      "placeOfBirth": "Hasselt, Belgium",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Valtteri",
-      "lastName": "Bottas",
-      "dateOfBirth": "28/08/1989",
-      "placeOfBirth": "Nastola, Finland",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Charles",
-      "lastName": "Leclerc",
-      "dateOfBirth": "16/10/1997",
-      "placeOfBirth": "Monte Carlo, Monaco",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Lewis",
-      "lastName": "Hamilton",
-      "dateOfBirth": "07/01/1985",
-      "placeOfBirth": "Stevenage, England",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Max",
-      "lastName": "Verstappen",
-      "dateOfBirth": "30/09/1997",
-      "placeOfBirth": "Hasselt, Belgium",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Valtteri",
-      "lastName": "Bottas",
-      "dateOfBirth": "28/08/1989",
-      "placeOfBirth": "Nastola, Finland",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Charles",
-      "lastName": "Leclerc",
-      "dateOfBirth": "16/10/1997",
-      "placeOfBirth": "Monte Carlo, Monaco",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Lewis",
-      "lastName": "Hamilton",
-      "dateOfBirth": "07/01/1985",
-      "placeOfBirth": "Stevenage, England",
-      "address": "18 Route de la Piscine, 98000 Monaco"
-    },
-    {
-      "firstName": "Max",
-      "lastName": "Verstappen",
-      "dateOfBirth": "30/09/1997",
-      "placeOfBirth": "Hasselt, Belgium",
-      "address": "18 Route de la Piscine, 98000 Monaco"
+      "id": "4",
+      "name": "A voyage to the upside down!",
+      "destination": "Sydney",
+      "country": "Australia",
+      "priceGBP": "950"
     }
   ]
 }
