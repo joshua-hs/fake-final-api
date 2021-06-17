@@ -3,30 +3,50 @@
     {
       "id": "1",
       "name": "Two weeks in the Canaries!",
-      "destination": "Tenerife",
-      "country": "Spain",
+      "destination": "Tenerife, Canary Islands",
       "priceGBP": "500"
     },
     {
       "id": "2",
       "name": "City-break in NYC!",
-      "destination": "New York City",
-      "country": "United States of America",
+      "destination": "New York City, USA",
       "priceGBP": "1200"
     },
     {
       "id": "3",
       "name": "A journey to the Far East!",
-      "destination": "Tokyo",
-      "country": "Japan",
+      "destination": "Tokyo, Japan",
       "priceGBP": "1000"
     },
     {
       "id": "4",
-      "name": "A voyage to the upside down!",
-      "destination": "Sydney",
-      "country": "Australia",
+      "name": "Witness the kangaroos!",
+      "destination": "Sydney, Australia",
       "priceGBP": "950"
+    },
+    {
+      "id": "5",
+      "name": "See some elephants!",
+      "destination": "Sub-Saharan Africa",
+      "priceGBP": "600"
+    },
+    {
+      "id": "6",
+      "name": "A trip to South America!",
+      "destination": "Buenos Aires, Argentina",
+      "priceGBP": "700"
+    },
+    {
+      "id": "7",
+      "name": "Experience the Northern Lights!",
+      "destination": "Tromso, Norway",
+      "priceGBP": "1000"
+    },
+    {
+      "id": "8",
+      "name": "Immerse yourself in ancient history!",
+      "destination": "Athens, Greece",
+      "priceGBP": "450"
     }
   ]
 }
